@@ -1,3 +1,68 @@
-.header {
-    font-size: 4em;
+.bg-red {
+    background-color: #fb4232;
+}
+
+.text-red {
+    color: #fb4232;
+}
+
+.bg-yellow {
+    background-color: #f0c84a;
+}
+
+.text-yellow {
+    color: #f0c84a;
+}
+
+.bg-blue {
+    background-color: #469f9d;
+}
+
+.text-blue {
+    color: #469f9d;
+}
+
+.bg-blue-grey {
+    background-color: #3d575d;
+}
+
+.text-blue-grey {
+    color: #3d575d;
+}
+
+.bg-dark-grey {
+    background-color: #414647;
+}
+
+.text-dark-grey {
+    color: #414647;
+}
+
+.bg-beige {
+    background-color: #edf4e4;
+}
+
+.text-beige {
+    color: #edf4e4;
+}
+
+.bg-green {
+    background-color: #45a747;
+}
+
+.text-green {
+    color: #45a747;
+}
+
+.w-5 {
+    width: 5%;
+}
+
+.display-1 {
+    font-family: 'Share Tech Mono', monospace;
+}
+
+.display-3 {
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: -5px;
 }
