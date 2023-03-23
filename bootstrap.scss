@@ -1,0 +1,26 @@
+$primary: #469f9d;
+$secondary: #414647;
+$warning: #f0c84a;
+$success: #45a747;
+$light: #edf4e4;
+$danger: #fb4232;
+$muted: #3d575d;
+
+
+
+/*$theme-colors: (
+  "primary": $primary,
+  "secondary": $secondary,
+  "warning": $warning,
+  "success": $success,
+  "danger": $danger,
+  "info": $info,
+  "light": $light,
+  "muted": $muted,
+  "dark": $dark,
+);
+
+$grid-gutter-width: 30px !default; */
+
+@import "node_modules/bootstrap/scss/bootstrap";
+// @import "node_modules/bootstrap-icons/font/bootstrap-icons";
